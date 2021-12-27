@@ -1,2 +1,5 @@
-# a11y
-Accessible web component documentation 
+# Accessibility 
+
+Web accessibility is not about disabilities. It's about enabling developers and designers to create good experiences. 
+
+## Roadmap 
